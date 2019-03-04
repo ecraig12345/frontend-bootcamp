@@ -30,7 +30,7 @@ const App = () => {
 
 ### `connect()` higher-order function
 
-`react-redux` provides a [`connect()`](https://react-redux.js.org/api/connect) function that turns the Redux store and dispatch functions into props for React components. The state and action dispatchers are passed along with a `<Provider>` component.
+`react-redux` provides a [`connect()`](https://react-redux.js.org/api/connect) function that turns the Redux store and dispatch functions into props for React components.
 
 ```js
 const OldComponent = props => {

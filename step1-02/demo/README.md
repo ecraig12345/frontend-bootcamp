@@ -1,6 +1,6 @@
 ## What We'll Be Building
 
-![todo screenshot](https://raw.githubusercontent.com/Microsoft/frontend-bootcamp/master/assets/todo_screenshot.jpg)
+![todo app screenshot](https://raw.githubusercontent.com/Microsoft/frontend-bootcamp/master/assets/todo_screenshot.jpg)
 
 ## HTML and CSS
 
